@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IJY22p/EnpU=",
+  "dgSpecHash": "BsMwEGqndpQ=",
   "success": true,
-  "projectFilePath": "D:\\Enclave_Data\\Backend\\ProductManager\\BEProductManager\\BEProductManager.csproj",
+  "projectFilePath": "D:\\Enclave_Data\\ProductManager\\BE\\ProductManager\\BEProductManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Brian\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\Brian\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",

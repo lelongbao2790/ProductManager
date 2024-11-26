@@ -4485,11 +4485,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Enclave_Data\\Backend\\ProductManager\\BEProductManager\\BEProductManager.csproj",
+      "projectUniqueName": "D:\\Enclave_Data\\ProductManager\\BE\\ProductManager\\BEProductManager.csproj",
       "projectName": "BEProductManager",
-      "projectPath": "D:\\Enclave_Data\\Backend\\ProductManager\\BEProductManager\\BEProductManager.csproj",
+      "projectPath": "D:\\Enclave_Data\\ProductManager\\BE\\ProductManager\\BEProductManager.csproj",
       "packagesPath": "C:\\Users\\Brian\\.nuget\\packages\\",
-      "outputPath": "D:\\Enclave_Data\\Backend\\ProductManager\\BEProductManager\\obj\\",
+      "outputPath": "D:\\Enclave_Data\\ProductManager\\BE\\ProductManager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
